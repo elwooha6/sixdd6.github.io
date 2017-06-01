@@ -1,7 +1,4 @@
-## Welcome to Six's Mod List 
-
-It's a bit bare right now but this is where you can find links to all my mods for RimWorld. 
-
+ 
 ### **[Right Tool for the Job](https://github.com/Sixdd6/Right-Tool-for-the-Job-Rebalanced)** 
 
 Adds basic and advanced tools to the game that increase your colonists work speeds. 
@@ -15,6 +12,9 @@ Adds basic and advanced tools to the game that increase your colonists work spee
  * Drill - Increases Mining speed 
  * Chainsaw - Increases plant cutting speed 
  * Auto-hammer - Increases build speed 
+
+ * Toolbelt - Combine the three basic tools to get a toolbelt which increases all three work speeds in one accessory item! 
+ * Advanced Toolbelt - Combine the three advanced tools to get an advanced toolbelt which increases all three work speeds even further in one accessory item! 
 
  * More tools coming soon!
 
