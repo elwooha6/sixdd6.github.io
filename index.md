@@ -18,11 +18,16 @@ Adds basic and advanced tools to the game that increase your colonists work spee
  * Toolbelt - Combine the three basic tools to get a toolbelt which increases all three work speeds in one accessory item! 
  * Advanced Toolbelt - Combine the three advanced tools to get an advanced toolbelt which increases all three work speeds even further in one accessory item! 
  
- 
+
  * More tools coming soon!
 
 
+ 
+## **[Stuffified Construction](https://github.com/Sixdd6/Stuffified-Construction)** 
 
+This is my baby right now. At it's most basic level it sets most things to be constructed by stuff rather than a static cost. This translates into being able to make lamps and smithies and solar panels and all kinds of other things out of any metal you like. Also allows furniture to be made of any type of wood or similar material where appropriate.
+
+Also adds compatibility for [Cupro's Alloys](https://ludeon.com/forums/index.php?topic=32190.0), [Cupro's Stones](https://ludeon.com/forums/index.php?topic=32190.0), [Cupro's Quarry](https://ludeon.com/forums/index.php?topic=32190.0) and adds new matching wood types to [Vegetable Garden](https://ludeon.com/forums/index.php?topic=12934.0) trees.
 
 ## Support or Contact
 
