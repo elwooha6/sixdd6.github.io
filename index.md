@@ -21,7 +21,7 @@ Adds basic and advanced tools to the game that increase your colonists work spee
 
  * More tools coming soon!
 
-![Download Latest](https://image.ibb.co/bw9vVv/Download_Purple.png)
+[![Download Latest](https://image.ibb.co/bw9vVv/Download_Purple.png)](https://github.com/Sixdd6/Right-Tool-for-the-Job-Rebalanced/releases/download/0.17.1.8/Right-Tool-for-the-Job-Rebalanced-0.17.1.8.zip)
  
 ## **[Stuffified Construction](https://github.com/Sixdd6/Stuffified-Construction)** 
 #### Not Yet Released
