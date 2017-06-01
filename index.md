@@ -1,5 +1,5 @@
  
-### **[Right Tool for the Job](https://github.com/Sixdd6/Right-Tool-for-the-Job-Rebalanced)** 
+## **[Right Tool for the Job](https://github.com/Sixdd6/Right-Tool-for-the-Job-Rebalanced)** 
 
 Adds basic and advanced tools to the game that increase your colonists work speeds. 
 
