@@ -22,9 +22,9 @@ body {
 	font-family: RimWordFont;
 }
 
-.fstPage {
-            background-image: url(../assets/images/bg.png");
-            /*background-color: lightgray;*/
+#main_content_wrap {
+            background-image: url("../assets/images/bg.png");
+            /*background-color: DimGrey;*/
             height: 1280;
             width:100%;
             background-size:cover;
