@@ -14,17 +14,11 @@
 }
 
 body {
-  background: #eeeeee;
-  font-family: “Trebuchet MS”, Verdana, Arial, serif;
+	background:url("https://image.ibb.co/cSw1oF/bg.png") top right no-repeat; background-attachment:fixed;
+	background: #eeeeee;
+	font-family: “Trebuchet MS”, Verdana, Arial, serif;
 }
 
 #project_title {
 	font-family: RimWordFont;
 }
-
-#main_content_wrap {
-			background: Wheat;
-			background-image: url("https://image.ibb.co/cSw1oF/bg.png");
-			background-size: 2048px 1280px;
-			background-repeat: no-repeat;
-        }
