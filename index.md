@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Six's Mod List 
 
-You can use the [editor on GitHub](https://github.com/Sixdd6/sixdd6.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+It's a bit bare right now but this is where you can find links to all my mods for RimWorld. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **[Right Tool for the Job](https://github.com/Sixdd6/Right-Tool-for-the-Job-Rebalanced)** 
 
-### Markdown
+Adds basic and advanced tools to the game that increase up your colonists work speeds. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tools Included 
 
-```markdown
-Syntax highlighted code block
+ * Pickaxe - Increases mining speed 
+ * Handaxe - Increases plant cutting speed 
+ * Hammer - Increases build speed 
 
-# Header 1
-## Header 2
-### Header 3
+ * Drill - Increases Mining speed 
+ * Chainsaw - Increases plant cutting speed 
+ * Auto-hammer - Increases build speed 
 
-- Bulleted
-- List
+ * More tools coming soon!
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sixdd6/sixdd6.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with one of my mods? Leave an issue open on the mods issue tracker and I'll get to it ASAP.
