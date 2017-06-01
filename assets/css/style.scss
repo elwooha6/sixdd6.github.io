@@ -5,3 +5,19 @@
 #footer_wrap {display: none;}
 #forkme_banner {display: none;}
 #downloads {display: none;}
+
+@font-face {
+    font-family: RimWord;
+    src: url("../sixdd6.github.io/RimWordFont.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+  background: #eeeeee;
+  font-family: “Trebuchet MS”, Verdana, Arial, serif;
+}
+
+H1 {
+	font-family: RimWord;
+}
